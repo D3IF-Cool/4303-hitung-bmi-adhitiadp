@@ -1642,6 +1642,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable gemuk
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -1650,6 +1651,8 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ideal
+drawable kurus
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -1878,6 +1881,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id info
 id invisible
 id inward
@@ -2070,6 +2074,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -2187,6 +2192,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_hitung
+layout fragment_saran
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider
@@ -2307,6 +2313,9 @@ string icon_content_description
 string ideal
 string isi_bmi
 string item_view_role_description
+string judul_gemuk
+string judul_ideal
+string judul_kurus
 string kategori_x
 string kelamin
 string kurus
@@ -2366,6 +2375,9 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string pria
+string saran_gemuk
+string saran_ideal
+string saran_kurus
 string search_menu_title
 string status_bar_notification_info_overflow
 string tinggi
