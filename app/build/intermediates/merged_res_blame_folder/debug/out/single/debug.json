@@ -28,6 +28,10 @@
         "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_hitung.xml.flat",
+        "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\layout\\fragment_hitung.xml"
+    },
+    {
         "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
         "source": "E:\\mobpro\\project3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
