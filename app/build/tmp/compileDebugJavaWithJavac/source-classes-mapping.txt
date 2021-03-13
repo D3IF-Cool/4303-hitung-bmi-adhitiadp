@@ -1,0 +1,4 @@
+org/d3if4037/hitungbmi/databinding/ActivityMainBinding.java
+ org.d3if4037.hitungbmi.databinding.ActivityMainBinding
+org/d3if4037/hitungbmi/BuildConfig.java
+ org.d3if4037.hitungbmi.BuildConfig
