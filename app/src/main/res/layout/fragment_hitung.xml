@@ -151,14 +151,20 @@
             tools:text="Kategori: ideal" />
 
         <Button
-            android:id="@+id/resetBt"
+            android:id="@+id/saranbutton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="132dp"
+            android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
-            android:text="Reset"
-            app:layout_constraintStart_toStartOf="@+id/rg"
-            app:layout_constraintTop_toBottomOf="@+id/rg" />
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:text="@string/lihat_saran"
+            android:visibility="invisible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/kategoriTextView"
+            tools:visibility="visible"/>
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>

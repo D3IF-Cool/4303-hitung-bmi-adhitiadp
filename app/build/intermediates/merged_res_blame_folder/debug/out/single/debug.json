@@ -40,16 +40,16 @@
         "source": "E:\\mobpro\\project3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
+        "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gemuk.png.flat",
+        "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\drawable-xhdpi\\gemuk.png"
+    },
+    {
         "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
         "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gemuk.png.flat",
-        "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\drawable-xhdpi\\gemuk.png"
     },
     {
         "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
@@ -68,6 +68,10 @@
         "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\drawable-xxhdpi\\ideal.png"
     },
     {
+        "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\navigation_navigation.xml.flat",
+        "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\navigation\\navigation.xml"
+    },
+    {
         "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
         "source": "E:\\mobpro\\project3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
@@ -76,12 +80,12 @@
         "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
         "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gemuk.png.flat",
         "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\drawable-xxhdpi\\gemuk.png"
+    },
+    {
+        "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
         "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
@@ -120,11 +124,11 @@
         "source": "E:\\mobpro\\project3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "E:\\mobpro\\project3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\mobpro\\project3\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     }
 ]

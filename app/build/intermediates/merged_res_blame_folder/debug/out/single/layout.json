@@ -4,10 +4,6 @@
         "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\layout\\fragment_saran.xml"
     },
     {
-        "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_hitung.xml",
         "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\layout\\fragment_hitung.xml"
     }

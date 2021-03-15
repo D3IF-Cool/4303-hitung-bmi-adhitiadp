@@ -14,16 +14,22 @@ class SaranFragment : Fragment() {
 
     private lateinit var binding: FragmentSaranBinding
 
-    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
-                              savedInstanceState: Bundle?): View? {
-        binding = FragmentSaranBinding.inflate(layoutInflater,
-                container,false)
-        updateUi(KategoriBmi.KURUS)
+    override fun onCreateView(
+        inflater: LayoutInflater, container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View? {
+        binding = FragmentSaranBinding.inflate(
+            layoutInflater,
+            container, false
+        )
+        updateUI(KategoriBmi.KURUS)
         return binding.root
     }
-    private fun updateUi(kategori: KategoriBmi){
-        val actionBar = (requireActivity() as AppCompatActivity) .supportActionBar
-        when(kategori){
+
+    private fun updateUI(kategori: KategoriBmi) {
+        val actionBar = (requireActivity() as AppCompatActivity)
+            .supportActionBar
+        when (kategori) {
             KategoriBmi.KURUS -> {
                 actionBar?.title = getString(R.string.judul_kurus)
                 binding.imageView.setImageResource(R.drawable.kurus)
