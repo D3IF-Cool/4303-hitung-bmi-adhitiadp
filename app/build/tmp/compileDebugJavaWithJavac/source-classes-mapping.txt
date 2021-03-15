@@ -1,5 +1,7 @@
 org/d3if4037/hitungbmi/databinding/FragmentHitungBinding.java
  org.d3if4037.hitungbmi.databinding.FragmentHitungBinding
+org/d3if4037/hitungbmi/databinding/FragmentAboutBinding.java
+ org.d3if4037.hitungbmi.databinding.FragmentAboutBinding
 org/d3if4037/hitungbmi/databinding/FragmentSaranBinding.java
  org.d3if4037.hitungbmi.databinding.FragmentSaranBinding
 org/d3if4037/hitungbmi/BuildConfig.java

@@ -16,6 +16,10 @@
         "source": "E:\\mobpro\\project3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
+        "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_about.xml.flat",
+        "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
         "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ideal.png.flat",
         "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\drawable-xhdpi\\ideal.png"
     },
@@ -74,6 +78,10 @@
     {
         "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
         "source": "E:\\mobpro\\project3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\menu_options_menu.xml.flat",
+        "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\menu\\options_menu.xml"
     },
     {
         "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",

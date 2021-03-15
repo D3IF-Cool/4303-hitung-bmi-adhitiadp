@@ -1739,6 +1739,7 @@ id SHOW_PROGRESS
 id SYM
 id TOP_END
 id TOP_START
+id aboutFragment
 id accelerate
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
@@ -1783,6 +1784,7 @@ id action_bar_title
 id action_container
 id action_context_bar
 id action_divider
+id action_hitungFragment_to_aboutFragment
 id action_hitungFragment_to_saranFragment
 id action_image
 id action_menu_divider
@@ -1817,6 +1819,7 @@ id bmiTextView
 id bottom
 id bounce
 id button
+id buttonGroup
 id buttonPanel
 id cache_measures
 id cancel_button
@@ -1964,6 +1967,7 @@ id material_timepicker_mode_button
 id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
+id menu_about
 id message
 id middle
 id mini
@@ -2067,6 +2071,7 @@ id search_voice_btn
 id select_dialog_listview
 id selected
 id selection_type
+id shareButton
 id shortcut
 id showCustom
 id showHome
@@ -2238,6 +2243,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout fragment_about
 layout fragment_hitung
 layout fragment_saran
 layout material_chip_input_combo
@@ -2306,6 +2312,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+menu options_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 navigation navigation
@@ -2339,6 +2346,8 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
 string appbar_scrolling_view_behavior
+string bagikan
+string bagikan_template
 string berat
 string berat_invalid
 string bmi_x
@@ -2349,6 +2358,7 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
+string copyright
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
@@ -2431,6 +2441,7 @@ string saran_ideal
 string saran_kurus
 string search_menu_title
 string status_bar_notification_info_overflow
+string tentang_aplikasi
 string tinggi
 string tinggi_invalid
 string wanita
