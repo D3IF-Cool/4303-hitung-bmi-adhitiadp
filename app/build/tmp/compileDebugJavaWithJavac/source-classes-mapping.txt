@@ -1,8 +1,17 @@
+org/d3if4037/hitungbmi/databinding/FragmentHistoriBinding.java
+ org.d3if4037.hitungbmi.databinding.FragmentHistoriBinding
 org/d3if4037/hitungbmi/databinding/FragmentHitungBinding.java
  org.d3if4037.hitungbmi.databinding.FragmentHitungBinding
 org/d3if4037/hitungbmi/databinding/FragmentAboutBinding.java
  org.d3if4037.hitungbmi.databinding.FragmentAboutBinding
 org/d3if4037/hitungbmi/databinding/FragmentSaranBinding.java
  org.d3if4037.hitungbmi.databinding.FragmentSaranBinding
+org/d3if4037/hitungbmi/db/BmiDb_Impl.java
+ org.d3if4037.hitungbmi.db.BmiDb_Impl
+ org.d3if4037.hitungbmi.db.BmiDb_Impl$1
+org/d3if4037/hitungbmi/db/BmiDao_Impl.java
+ org.d3if4037.hitungbmi.db.BmiDao_Impl
+ org.d3if4037.hitungbmi.db.BmiDao_Impl$1
+ org.d3if4037.hitungbmi.db.BmiDao_Impl$2
 org/d3if4037/hitungbmi/BuildConfig.java
  org.d3if4037.hitungbmi.BuildConfig
