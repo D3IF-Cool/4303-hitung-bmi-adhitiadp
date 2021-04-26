@@ -15,5 +15,6 @@ org/d3if4037/hitungbmi/db/BmiDao_Impl.java
  org.d3if4037.hitungbmi.db.BmiDao_Impl
  org.d3if4037.hitungbmi.db.BmiDao_Impl$1
  org.d3if4037.hitungbmi.db.BmiDao_Impl$2
+ org.d3if4037.hitungbmi.db.BmiDao_Impl$3
 org/d3if4037/hitungbmi/BuildConfig.java
  org.d3if4037.hitungbmi.BuildConfig
