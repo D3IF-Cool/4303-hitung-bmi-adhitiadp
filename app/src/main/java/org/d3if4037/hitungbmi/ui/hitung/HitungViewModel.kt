@@ -18,9 +18,6 @@ import org.d3if4037.hitungbmi.db.BmiEntity
     // Navigasi akan bernilai null ketika tidak bernavigasi
     private val navigasi = MutableLiveData<KategoriBmi?>()
 
-     //variabel ini sudah berupa livedata, tidak perlu dijadikan private
-     val data = db.getLastBmi()
-
     fun hitungBmi(berat: String, tinggi: String, isMale: Boolean){
         val tinggiCm = tinggi.toFloat()/100
         val bmi = berat.toFloat() / (tinggiCm * tinggiCm)

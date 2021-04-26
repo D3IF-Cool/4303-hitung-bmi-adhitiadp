@@ -1680,6 +1680,7 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable gemuk
+drawable ic_baseline_history_24
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -1785,6 +1786,7 @@ id action_container
 id action_context_bar
 id action_divider
 id action_hitungFragment_to_aboutFragment
+id action_hitungFragment_to_historiFragment
 id action_hitungFragment_to_saranFragment
 id action_image
 id action_menu_divider
@@ -1885,6 +1887,7 @@ id easeInOut
 id easeOut
 id edit_query
 id elastic
+id emptyView
 id end
 id endToStart
 id enterAlways
@@ -1914,6 +1917,7 @@ id groups
 id guideline
 id header_title
 id hideable
+id historiFragment
 id hitungFragment
 id home
 id homeAsUp
@@ -1968,6 +1972,7 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id menu_about
+id menu_histori
 id message
 id middle
 id mini
@@ -2245,6 +2250,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_about
+layout fragment_histori
 layout fragment_hitung
 layout fragment_saran
 layout material_chip_input_combo
@@ -2349,6 +2355,7 @@ string app_name
 string appbar_scrolling_view_behavior
 string bagikan
 string bagikan_template
+string belum_ada_data
 string berat
 string berat_invalid
 string bmi_x
@@ -2367,6 +2374,7 @@ string fab_transformation_sheet_behavior
 string gemuk
 string gender_invalid
 string hide_bottom_view_on_scroll_behavior
+string histori
 string hitung
 string icon_content_description
 string ideal

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_histori.xml",
+        "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\layout\\fragment_histori.xml"
+    },
+    {
         "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_saran.xml",
         "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\layout\\fragment_saran.xml"
     },
