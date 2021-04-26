@@ -6441,7 +6441,7 @@
         berat badannya ideal, gemuk atau kurus.\n\nAplikasi ini dibuat untuk kelas
         Mobpro 1. Temukan kodenya di https://github.com/indraazimi/hitungbmi\n
         \nCopyright © 2021 Indra Azimi.\nAll rights reserved.</string><string name="tentang_aplikasi">Tentang Aplikasi</string><string name="bagikan">Bagikan</string><string name="bagikan_template">>Berat badan: %1$s kg\nTinggi badan: %2$s
-        cm\nJenis kelamin: %3$s\n\n%4$s\n%5$s</string><string name="belum_ada_data">Belum ada data</string><string name="histori">Histori</string></file><file path="E:\mobpro\project3\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.HitungBMI" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        cm\nJenis kelamin: %3$s\n\n%4$s\n%5$s</string><string name="belum_ada_data">Belum ada data</string><string name="histori">Histori</string><string name="berat_x">BB: %1$.1f</string><string name="tinggi_x">TB: %1$.1f</string></file><file path="E:\mobpro\project3\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.HitungBMI" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
@@ -6465,7 +6465,7 @@
         
         <item name="android:statusBarColor" ns2:targetApi="l">?attr/colorPrimaryVariant</item>
         
-    </style></file></source><source path="E:\mobpro\project3\app\build\generated\res\rs\debug"/><source path="E:\mobpro\project3\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\mobpro\project3\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\mobpro\project3\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AlertDialog">
+    </style></file><file name="item_histori" path="E:\mobpro\project3\app\src\main\res\layout\item_histori.xml" qualifiers="" type="layout"/></source><source path="E:\mobpro\project3\app\build\generated\res\rs\debug"/><source path="E:\mobpro\project3\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\mobpro\project3\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\mobpro\project3\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="AlertDialog">
         <attr name="android:layout"/>
         <attr format="reference" name="buttonPanelSideLayout"/>
         <attr format="reference" name="listLayout"/>

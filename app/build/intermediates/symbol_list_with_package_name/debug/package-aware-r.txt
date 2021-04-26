@@ -1816,8 +1816,10 @@ id baseline
 id beginOnFirstDraw
 id beginning
 id berat
+id beratTv
 id blocking
 id bmiTextView
+id bmiTv
 id bottom
 id bounce
 id button
@@ -1906,6 +1908,7 @@ id flip
 id floating
 id forever
 id fragment_container_view_tag
+id genderTv
 id ghost_view
 id ghost_view_holder
 id gone
@@ -1939,6 +1942,7 @@ id item_touch_helper_previous_elevation
 id jumpToEnd
 id jumpToStart
 id kategoriTextView
+id kategoriTv
 id kelamin
 id labelGroup
 id labeled
@@ -2043,6 +2047,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recyclerView
 id reverseSawtooth
 id rg
 id right
@@ -2118,6 +2123,7 @@ id tag_screen_reader_focusable
 id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
+id tanggalTv
 id test_checkbox_android_button_tint
 id test_checkbox_app_button_tint
 id test_radiobutton_android_button_tint
@@ -2141,6 +2147,7 @@ id textinput_prefix_text
 id textinput_suffix_text
 id time
 id tinggi
+id tinggiTv
 id title
 id titleDividerNoCustom
 id title_template
@@ -2253,6 +2260,7 @@ layout fragment_about
 layout fragment_histori
 layout fragment_hitung
 layout fragment_saran
+layout item_histori
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider
@@ -2358,6 +2366,7 @@ string bagikan_template
 string belum_ada_data
 string berat
 string berat_invalid
+string berat_x
 string bmi_x
 string bottom_sheet_behavior
 string bottomsheet_action_expand_halfway
@@ -2453,6 +2462,7 @@ string status_bar_notification_info_overflow
 string tentang_aplikasi
 string tinggi
 string tinggi_invalid
+string tinggi_x
 string wanita
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

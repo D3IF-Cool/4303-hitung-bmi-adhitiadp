@@ -152,6 +152,10 @@
         "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\drawable-hdpi\\gemuk.png"
     },
     {
+        "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_histori.xml.flat",
+        "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\layout\\item_histori.xml"
+    },
+    {
         "merged": "E:\\mobpro\\project3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_kurus.png.flat",
         "source": "E:\\mobpro\\project3\\app\\src\\main\\res\\drawable-hdpi\\kurus.png"
     },

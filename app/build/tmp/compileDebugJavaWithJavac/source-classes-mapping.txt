@@ -1,5 +1,7 @@
 org/d3if4037/hitungbmi/databinding/FragmentHistoriBinding.java
  org.d3if4037.hitungbmi.databinding.FragmentHistoriBinding
+org/d3if4037/hitungbmi/databinding/ItemHistoriBinding.java
+ org.d3if4037.hitungbmi.databinding.ItemHistoriBinding
 org/d3if4037/hitungbmi/databinding/FragmentHitungBinding.java
  org.d3if4037.hitungbmi.databinding.FragmentHitungBinding
 org/d3if4037/hitungbmi/databinding/FragmentAboutBinding.java
