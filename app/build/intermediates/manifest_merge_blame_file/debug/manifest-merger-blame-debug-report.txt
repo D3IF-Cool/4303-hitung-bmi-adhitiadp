@@ -42,6 +42,15 @@
 25-->E:\mobpro\project3\app\src\main\AndroidManifest.xml:16:27-74
 26            </intent-filter>
 27        </activity>
-28    </application>
-29
-30</manifest>
+28
+29        <service
+29-->[androidx.room:room-runtime:2.2.6] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\6517504502615525b355872de9dea3ed\room-runtime-2.2.6\AndroidManifest.xml:25:9-28:40
+30            android:name="androidx.room.MultiInstanceInvalidationService"
+30-->[androidx.room:room-runtime:2.2.6] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\6517504502615525b355872de9dea3ed\room-runtime-2.2.6\AndroidManifest.xml:26:13-74
+31            android:directBootAware="true"
+31-->[androidx.room:room-runtime:2.2.6] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\6517504502615525b355872de9dea3ed\room-runtime-2.2.6\AndroidManifest.xml:27:13-43
+32            android:exported="false" />
+32-->[androidx.room:room-runtime:2.2.6] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\6517504502615525b355872de9dea3ed\room-runtime-2.2.6\AndroidManifest.xml:28:13-37
+33    </application>
+34
+35</manifest>
